@@ -7,7 +7,7 @@
 # Project 3: Zomato Data Analysis
 Analysis based on:
 1) What type of resturant do the majority of customers order from?
-2) How many votes has eacg type of resturant received from customers?
+2) How many votes has each type of resturant received from customers?
 3) What are the ratings that the majority of resturants have received?
 4) Zomato has obseved the most couples order most of their food online. What is their 
    average spending on each other?
