@@ -1,10 +1,16 @@
 # Python_Projects
 
-# Project 1
-Ultra Marathon Running
+# Project 1: Ultra Marathon Running
 
-# Project 2
-Movies Analysis
+# Project 2: Movies Analysis
 
-# Project 3
-Zomato Data Analysis
+# Project 3: Zomato Data Analysis
+Analysis based on:
+1) What type of resturant do the majority of customers order from?
+2) How many vptes has eacg type of resturant received from customers?
+3) What are the ratings that the majority of resturants have received?
+4) Zomato has obseved the most couples order most of their food online. What is their 
+   average spending on each other?
+5) Which mode (online or offline) has recived the maximum rating?
+6) Which type of restaurant received more offline orders, so that Zomato can provide 
+   customers with some good offers? 
