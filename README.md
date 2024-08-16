@@ -1,12 +1,10 @@
 # Python_Projects
 
-# Project 1: Ultra Marathon Running
+# Project 1: Ultra Marathon Running 
 
-# Project 2: Movies Analysis
+# Project 2: Movies Analysis (Dataset: movies.csv)
 
-# Project 3: Zomato Data Analysis
-
-[Dataset](Zomato data .csv)
+# Project 3: Zomato Data Analysis (Dataset: Zomato data.csv)
 
 Analysis based on:
 1) What type of resturant do the majority of customers order from?
