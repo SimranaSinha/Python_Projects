@@ -18,3 +18,7 @@ Analysis based on:
 5) Which mode (online or offline) has recived the maximum rating?
 6) Which type of restaurant received more offline orders, so that Zomato can provide 
    customers with some good offers? 
+
+
+# Project 4: Python_Code_Practice
+It includes all the basic to advance codes
