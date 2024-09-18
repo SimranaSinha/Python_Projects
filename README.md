@@ -4,10 +4,10 @@
 [Dataset](https://drive.google.com/drive/search?q=TWO_CENTURIES_OF_UM_RACES)
 
 # Project 2: Movies Analysis 
-(Dataset: movies.csv)
+[Dataset](movies.csv)
 
 # Project 3: Zomato Data Analysis 
-(Dataset: Zomato data.csv)
+[Dataset](Zomatodata.csv)
 
 Analysis based on:
 1) What type of resturant do the majority of customers order from?
